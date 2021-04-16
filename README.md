@@ -24,7 +24,7 @@ This is the code repository for the book titled "Introduction to Python in Earth
 
 ## Jupiter Notebooks
 * [Chapter 4: Prepare a publication-ready diagram](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/main/Jupyter_Notebooks/chapter_4/publication_ready_diagram.ipynb)
-* [Chapter 7: Computing the Lithostatic Pressure](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/main/Jupyter_Notebooks/chapter_7/lithostatic_pressure.ipynb)
+* [Chapter 7: Computing the Lithostatic Pressure](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/main/Jupyter_Notebooks/chapter_7/my_lithostatic_pressure.ipynb)
 
 ### License
 
