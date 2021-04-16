@@ -23,8 +23,7 @@ This is the code repository for the book titled "Introduction to Python in Earth
 * [Chapter 12:  Machine Learning](https://github.com/petrelli-m/python_earth_science_book/tree/main/code/chapter_11)
 
 ## Jupiter Notebooks
-[Chapter 4: Prepare a publication-ready diagram]
-(https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/main/Jupyter_Notebooks/chapter_4/publication_ready_diagram.ipynb)
+* [Chapter 4: Prepare a publication-ready diagram](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/main/Jupyter_Notebooks/chapter_4/publication_ready_diagram.ipynb)
 
 ### License
 
