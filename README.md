@@ -1,10 +1,13 @@
-# Introduction to Python in Earth Science Data Analysis
-From Descriptive Statistics to Machine Learning
+## The Book
+Introduction to Python in Earth Science Data Analysis: From Descriptive Statistics to Machine Learning
+
+## Scope of the Repository
 
 This is the code repository for the book titled "Introduction to Python in Earth Science Data Analysis: From Descriptive Statistics to Machine Learning" by Maurizio Petrelli, to be published by Springer
 
+## Social
 
-Follow Me on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/MauPetrelli.svg?style=social&label=Follow)](https://twitter.com/MauPetrelli)
+Follow Me on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/mauripetre.svg?style=social&label=Follow)](https://twitter.com/mauripetre)
 
 
 ##  Table of Contents:
@@ -23,10 +26,8 @@ Follow Me on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/M
 * [Chapter 11: Introduction to Robust Statistics](https://github.com/petrelli-m/python_earth_science_book/tree/main/code/chapter_11)
 * [Chapter 12:  Machine Learning](https://github.com/petrelli-m/python_earth_science_book/tree/main/code/chapter_11)
 
+
 ## License
 
-### Code
-
-The code in this repository is released under the [MIT license](LICENSE-CODE). Read more at the
-[Open Source Initiative](https://opensource.org/licenses/MIT).
+The code in this repository is released under the [MIT license](LICENSE). Read more about [MIT license](https://opensource.org/licenses/MIT).
 
