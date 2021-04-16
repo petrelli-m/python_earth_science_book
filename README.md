@@ -1,12 +1,9 @@
 ## Introduction to Python in Earth Science Data Analysis
+Follow Me on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/MauPetrelli.svg?style=social&label=Follow)](https://twitter.com/MauPetrelli)
 
 ### Scope of the Repository
 
 This is the code repository for the book titled "Introduction to Python in Earth Science Data Analysis: From Descriptive Statistics to Machine Learning" by Maurizio Petrelli, to be published by Springer
-
-### Social
-
-Follow Me on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/MauPetrelli.svg?style=social&label=Follow)](https://twitter.com/MauPetrelli)
 
 
 ###  Table of Contents:
