@@ -32,7 +32,7 @@ popt1, pcov1 = curve_fit(func, I_r, Di, method='trf', bounds=([0.8,0,0],[1.3,100
 
 x1 = np.linspace(0.85,1.2,1000)
 y1 = func(x1,popt1[0],popt1[1], popt1[2])
-ax1.plot(x1,y1, color='#ff464a', linewidth=2, linestyle ='--', label=r'$r_0$ = ' + str(round(popt1[0],3)) + r', $D_0$ = ' + str(round(popt1[1],0)) + ', E = ' + str(round(popt1[2],0)))
+ax1.plot(x1,y1, color='#ff464a', linewidth=2, linestyle ='--', label=r'$r_0$ = ' + '{:.3f}'.format(popt1[0]) + r', $D_0$ = ' + '{:.0f}'.format(popt1[1]) + ', E = ' + '{:.0f}'.format(popt1[2]))
 add_elements(ax = ax1)
 ax1.set_yscale('log')
 ax1.set_xlabel(r'Ionic Radius ($\AA$)')
@@ -49,7 +49,7 @@ popt2, pcov2 = curve_fit(func, I_r, Di, method='lm', p0=(1.1,100,100))
 
 x2 = np.linspace(0.85,1.2,1000)
 y2 = func(x2,popt2[0],popt2[1], popt2[2])
-ax2.plot(x2,y2, color='#4881e9', linewidth=2, linestyle ='--', label=r'$r_0$ = ' + str(round(popt2[0],3)) + r', $D_0$ = ' + str(round(popt2[1],0)) + ', E = ' + str(round(popt2[2],0)))
+ax2.plot(x2,y2, color='#4881e9', linewidth=2, linestyle ='--', label=r'$r_0$ = ' + '{:.3f}'.format(popt2[0]) + r', $D_0$ = ' + '{:.0f}'.format(popt2[1]) + ', E = ' + '{:.0f}'.format(popt2[2]))
 add_elements(ax = ax2)
 ax2.set_yscale('log')
 ax2.set_xlabel(r'Ionic Radius ($\AA$)')
