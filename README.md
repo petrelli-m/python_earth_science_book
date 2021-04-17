@@ -23,9 +23,9 @@ This is the code repository for the book titled "Introduction to Python in Earth
 * [Chapter 12:  Machine Learning](https://github.com/petrelli-m/python_earth_science_book/tree/main/code/chapter_11)
 
 ## Jupyter Notebooks
-* [Chapter 4: Prepare a publication-ready diagram](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/main/Jupyter_Notebooks/chapter_4/publication_ready_diagram.ipynb)
-* [Chapter 6:  Crystal-lattice-strain mode](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/main/Jupyter_Notebooks/chapter_6/crystal_lattice_strain_model.ipynb)
-* [Chapter 7: Computing the Lithostatic Pressure](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/main/Jupyter_Notebooks/chapter_7/lithostatic_pressure.ipynb)
+* [Chapter 4: Prepare a publication-ready diagram](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/1300b44b62e77ae3dd63128634617b56766709f2/Jupyter_Notebooks/chapter_4/publication_ready_diagram.ipynb)
+* [Chapter 6:  Crystal-lattice-strain mode](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/1300b44b62e77ae3dd63128634617b56766709f2/Jupyter_Notebooks/chapter_6/cryst_latt_strain_model.ipynb)
+* [Chapter 7: Computing the Lithostatic Pressure](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/1300b44b62e77ae3dd63128634617b56766709f2/Jupyter_Notebooks/chapter_7/lithostatic_pressure.ipynb)
 
 ### License
 
