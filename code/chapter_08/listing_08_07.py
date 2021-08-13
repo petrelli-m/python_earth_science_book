@@ -1,6 +1,6 @@
 def ftcs(u, D, h, dt):
     
-    d2u_dx2 = np.zeros(u.shape, np.float) 
+    d2u_dx2 = np.zeros(u.shape, float) 
     for i in range(1,len(u)-1):
         # Central difference scheme in space
         d2u_dx2[i] = (u[i+1] - 2*u[i] + u[i-1]) / h**2

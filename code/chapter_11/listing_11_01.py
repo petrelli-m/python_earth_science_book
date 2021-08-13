@@ -9,7 +9,7 @@ my_dataset_traces = pd.read_excel('Smith_glass_post_NYT_data.xlsx', sheet_name='
 fig = plt.figure()
 
 # MnO
-MnO = my_dataset_majors.MNO
+MnO = my_dataset_majors.MnO
 
 ax1 = fig.add_subplot(2, 1, 1)
 ax1.hist(MnO, bins='auto', density=True, color='#4881e9', edgecolor='k', label='MnO', alpha=0.8) 

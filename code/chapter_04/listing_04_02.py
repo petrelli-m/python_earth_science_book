@@ -7,4 +7,4 @@ my_dataset = pd.read_excel(
 fig, ax = plt.subplots()
 ax.hist(my_dataset.Zr, bins='auto', edgecolor='black', color='tab:blue', alpha=0.8, density=True)
 ax.set_xlabel('Zr [ppm]')
-ax.set_ylabel('Counts')
+ax.set_ylabel('Probability Density')

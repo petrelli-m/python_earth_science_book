@@ -22,13 +22,13 @@ my_sum_ab_mc_mean = my_sum_ab_mc.mean()
 my_sigma_sum_ab_mc_std = my_sum_ab_mc.std()
  
 fig, ax = plt.subplots()
-ax.hist(my_sum_ab_mc, bins='auto', color='#c7ddf4', edgecolor='k', density=True, label= r'a+b sample distribution by MC ($\mu_{a+b} = $' + "{:.0f}".format(my_sum_ab_mc_mean) + r'  - 1$\sigma_{a+b}$' + "{:.0f}".format(my_sigma_sum_ab_mc_std) + ')')
-ax.plot(my_x, my_sum_ab_PDF, color='#ff464a', linestyle='--', label=r'a+b PDF by linearized error propagation')
+ax.hist(my_sum_ab_mc, bins='auto', color='#c7ddf4', edgecolor='k', density=True, label= r'a+b sample distribution by MC ($\mu_{a+b} = $' + "{:.0f}".format(my_sum_ab_mc_mean) + r'  - 1$\sigma_{a+b} = $' + "{:.0f}".format(my_sigma_sum_ab_mc_std) + ')')
+ax.plot(my_x, my_sum_ab_PDF, color='#ff464a', linestyle='--', label=r'a+b PDF by linearized error propagation ($\mu_{a+b} = $' + "{:.0f}".format(my_sum_ab_l) + r'  - 1$\sigma_{a+b} = $' + "{:.0f}".format(my_sigma_sum_ab_l) + ')')
 ax.set_xlabel('a + b')
 ax.set_ylabel('Probability Density')
 ax.legend(title='Error Propagation')
 ax.set_ylim(0,0.07)
 
-
+fig.tight_layout()
 
 

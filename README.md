@@ -1,3 +1,5 @@
+[![name](cover1.png)](https://www.springer.com/gp/book/9783030780548)
+
 ## Introduction to Python in Earth Science Data Analysis
 Follow Me on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/MauPetrelli.svg?style=social&label=Follow)](https://twitter.com/MauPetrelli)
 

@@ -6,7 +6,7 @@ from scipy.integrate import ode
 def ode_sol(n0, decay_const, t_final, n_t_steps):
     intermediate_points = n_t_steps
     t3 = np.linspace(0,t_final, intermediate_points)
-    n3 = np.zeros(t3.shape, np.float) 
+    n3 = np.zeros(t3.shape, float) 
     def f(t, y, decay_const):
         return  - decay_const * y 
     solver = ode(f).set_integrator('dopri5') # runge-kutta of order (4)5

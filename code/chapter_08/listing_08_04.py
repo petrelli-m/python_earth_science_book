@@ -6,7 +6,7 @@ def euler_method(n0, decay_const, t_final, n_t_steps):
     iterations = n_t_steps
     delta_t = t_final/n_t_steps
     t1 = np.linspace(0, iterations*delta_t, iterations)
-    n1 = np.zeros(t1.shape, np.float) 
+    n1 = np.zeros(t1.shape, float) 
     n1[0]=n0
     for i in range(0,len(t1)-1):
         n1[i+1] = n1[i] * (1 - decay_const * delta_t )
