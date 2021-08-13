@@ -1,5 +1,3 @@
-[![name](cover1.png)](https://www.springer.com/gp/book/9783030780548)
-
 ## Introduction to Python in Earth Science Data Analysis
 Follow Me on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/MauPetrelli.svg?style=social&label=Follow)](https://twitter.com/MauPetrelli)
 
@@ -25,7 +23,7 @@ This is the code repository for the book titled "Introduction to Python in Earth
 * [Chapter 12:  Machine Learning](https://github.com/petrelli-m/python_earth_science_book/tree/main/code/chapter_11)
 
 ## Jupyter Notebooks
-* [Chapter 4: Prepare a publication-ready diagram](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/1300b44b62e77ae3dd63128634617b56766709f2/Jupyter_Notebooks/chapter_4/publication_ready_diagram.ipynb)
+* [Chapter 4: Prepare a publication-ready diagram](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/a157fbe9e2df70bf62e840ae801762f310dec372/Jupyter_Notebooks/chapter_4/publication_ready_diagram.ipynb)
 * [Chapter 6:  Crystal-lattice-strain mode](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/1300b44b62e77ae3dd63128634617b56766709f2/Jupyter_Notebooks/chapter_6/cryst_latt_strain_model.ipynb)
 * [Chapter 7: Computing the Lithostatic Pressure](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/1300b44b62e77ae3dd63128634617b56766709f2/Jupyter_Notebooks/chapter_7/lithostatic_pressure.ipynb)
 * [Appendix A: Python Packages and Resources for Geologists](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/f93f341d2c9f7bcacd891e9eb5e3bf75b3daa397/Jupyter_Notebooks/appendix_a/resources_for_geologists.ipynb)
@@ -33,4 +31,8 @@ This is the code repository for the book titled "Introduction to Python in Earth
 ### License
 
 The code in this repository is released under the [MIT license](LICENSE). Read more about [MIT license](https://opensource.org/licenses/MIT).
+
+
+### Cover
+[![name](cover1.png)](https://www.springer.com/gp/book/9783030780548)
 
