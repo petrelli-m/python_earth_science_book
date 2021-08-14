@@ -26,7 +26,7 @@ This is the code repository for the book titled "[Introduction to Python in Eart
 * [Chapter 4: Prepare a publication-ready diagram](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/54234532f28990969c1beef7f087ff74bbaeec42/Jupyter_Notebooks/chapter_4/publication_ready_diagram.ipynb)
 * [Chapter 6:  Crystal-lattice-strain model](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/1300b44b62e77ae3dd63128634617b56766709f2/Jupyter_Notebooks/chapter_6/cryst_latt_strain_model.ipynb)
 * [Chapter 7: Computing the Lithostatic Pressure](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/1300b44b62e77ae3dd63128634617b56766709f2/Jupyter_Notebooks/chapter_7/lithostatic_pressure.ipynb)
-* [Appendix A: Python Packages and Resources for Geologists](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/af7572800de811e0d5e4f584694765bb3a8ba92f/Jupyter_Notebooks/appendix_a/resources_for_geologists.ipynb)
+* [Appendix A: Python Packages and Resources for Geologists](https://nbviewer.jupyter.org/github/petrelli-m/python_earth_science_book/blob/c410f3d7b60761b8fc05f90cd68909f83394051d/Jupyter_Notebooks/appendix_a/resources_for_geologists.ipynb)
 
 ### License
 
